@@ -1,10 +1,10 @@
 # mykos
 
-A new Flutter project.
+A Flutter project from BuildWithAngga Course use a Provider for  State Management.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+my kos is the application to find a boarding house.
 
 A few resources to get you started if this is your first Flutter project:
 
